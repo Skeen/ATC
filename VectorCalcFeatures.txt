@@ -1,0 +1,36 @@
+VectorCalculator
+
+Add two vectors
+* Add returns a valid vector
+* can add two vectors
+*
+
+subtract two vectors
+* Subtract returns a valid vector
+* Can subtract two vectors
+*
+
+scale a vector
+* Scale returns a valid vector
+* 
+*
+
+calculate the dot product of two vector
+* Dot product returns a valid vector
+*
+*
+
+the angle between two vectors
+* Angle returns a numerical value
+* Cannot go below 0 degrees
+* Cannot exceed 360 degrees
+
+the magnitude of a vector
+* Returns a numerical value
+* Returns a numerical value which corresponds to the length of the vector
+* Returned vector cannot be negative
+
+transformation from cartesian to polar coordinates
+* Returns valid polar coordinates
+*
+*

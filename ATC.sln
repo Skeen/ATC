@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATC", "ATC\ATC.csproj", "{BB1ABA73-85A0-4FDD-AF7B-DE49A97B9910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorCalculator", "ConsoleApplication1\VectorCalculator.csproj", "{E0560F7F-8BA3-4D3F-A133-B6B3858D4B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATC_Tests", "ATC_Tests\ATC_Tests.csproj", "{6BE89E6F-1945-40BF-84C7-67FC2E32C0D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1ABA73-85A0-4FDD-AF7B-DE49A97B9910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1ABA73-85A0-4FDD-AF7B-DE49A97B9910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1ABA73-85A0-4FDD-AF7B-DE49A97B9910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1ABA73-85A0-4FDD-AF7B-DE49A97B9910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0560F7F-8BA3-4D3F-A133-B6B3858D4B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0560F7F-8BA3-4D3F-A133-B6B3858D4B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0560F7F-8BA3-4D3F-A133-B6B3858D4B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0560F7F-8BA3-4D3F-A133-B6B3858D4B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE89E6F-1945-40BF-84C7-67FC2E32C0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE89E6F-1945-40BF-84C7-67FC2E32C0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE89E6F-1945-40BF-84C7-67FC2E32C0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE89E6F-1945-40BF-84C7-67FC2E32C0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
